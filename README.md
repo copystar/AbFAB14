@@ -1,7 +1,7 @@
 ## Putting Food, Arts & Bicycles on the Map
 ### an FAB Ignite Talk at the City Cyclery, May 2nd, 2014
 
-Slides are available at : http://copystar.github.io/abfab14/
+Slides are available at : http://copystar.github.io/AbFAB14/
 Presentation made using reveal.js
 
 ### Slide 1

@@ -95,7 +95,7 @@ These are trails made by the GPS tracks by those using the Strava app
 ### Slide 15
 image from: http://www.openstreetmap.org/
 				        
-Strava chooses not to spend money on the high licensing fees set by Google to make use of its maps
+Some companies like FourSquare choose not to spend money on the high licensing fees set by Google to make use of its maps
 It uses the Wikipedia of Maps called OpenStreetMap: I added most of the features of the UW campus to it here
 
 ### Slide 16
